@@ -1,0 +1,2 @@
+model_checkpoint_path: "0.99_1.0captcha.model-1800"
+all_model_checkpoint_paths: "0.99_1.0captcha.model-1800"
